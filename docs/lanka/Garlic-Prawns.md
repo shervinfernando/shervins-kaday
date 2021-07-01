@@ -34,4 +34,4 @@ COOKING
 * Butter & lemon: Scatter remaining butter across pan, add lemon juice. After butter melts, stir for 30 seconds, then remove from stove.
 * Garnish & serve: Transfer to serving plate, sprinkle with parsley and serve with extra lemon wedges. Bread for mopping is essential - try this simple.
 
-<img src="https://github.com/shervinfernando/shervins-kaday/blob/master/docs/images/Garlic-Prawns_6.jpg"/>
+<img src="{{site.url}}/images/Garlic-Prawns_6.jpg"/>
