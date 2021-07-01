@@ -7,26 +7,27 @@ sort: 1
 ## Ingredients
 
 ### GARLIC MARINADE FOR PRAWS:
-500g / 1lb prawns (shrimp) , peeled and deveined, tail on 
-4 garlic cloves , finely chopped (don't use crusher/mincer)
-1 tbsp extra virgin olive oil (separated)
-1/2 tsp black pepper
+* 500g / 1lb prawns (shrimp) , peeled and deveined, tail on 
+* 4 garlic cloves , finely chopped (don't use crusher/mincer)
+* 1 tbsp extra virgin olive oil (separated)
+* 1/2 tsp black pepper
 ### COOKING
-1/2 tsp salt
-1.5 tbsp olive oil
-50g / 3.5 tbsp unsalted butter , cut into 1.5cm / 1/2" cubes 
-1/4 cup dry white wine (Note 3)
-2 tbsp lemon juice
+* 1/2 tsp salt
+* 1.5 tbsp olive oil
+* 50g / 3.5 tbsp unsalted butter , cut into 1.5cm / 1/2" cubes 
+* 1/4 cup dry white wine (Note 3)
+* 2 tbsp lemon juice
 ### SERVING
-2 tbsp parsley, finely chopped (garnish)
-lemon wedges
-Bread for mopping!
+* 2 tbsp parsley, finely chopped (garnish)
+* lemon wedges
+* Bread for mopping!
 
 ## Instructions
 
-* Marinade: Place the prawns, garlic, olive oil and pepper in bowl. Gently toss then set aside for 20 minutes.
+### MARINADE
+* Place the prawns, garlic, olive oil and pepper in bowl. Gently toss then set aside for 20 minutes.
 * Salt: Add salt into prawns just before cooking and toss.
-COOKING
+### COOKING
 * Sear in batches: Heat oil and about 1/3 of the butter in a large heavy based fry pan over high heat. When the butter is melted, add half the prawns - don't crowd the pan.
 * Cook for 1 minute until light golden then turn with tongs. Cook 1 minute then remove onto a plate. Cook the remaining prawns also for 1 minute each side (you shouldn't need more oil).
 * Return first batch of prawns back into pan.
