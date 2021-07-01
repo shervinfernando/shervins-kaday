@@ -5,7 +5,6 @@ sort: 1
 # Garlic Prawns
 
 ## Ingredients
-
 ### GARLIC MARINADE FOR PRAWS:
 * 500g / 1lb prawns (shrimp) , peeled and deveined, tail on 
 * 4 garlic cloves , finely chopped (don't use crusher/mincer)
@@ -23,7 +22,6 @@ sort: 1
 * Bread for mopping!
 
 ## Instructions
-
 ### MARINADE
 * Place the prawns, garlic, olive oil and pepper in bowl. Gently toss then set aside for 20 minutes.
 * Salt: Add salt into prawns just before cooking and toss.
