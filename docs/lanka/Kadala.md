@@ -11,7 +11,7 @@ sort: 7
 * 1 large Onion Sliced fine
 * 1 teaspoon of Mustard seeds
 * 1 teaspoon cumin seeds
-* 1 teaspoon of red chilli flecks( add more if needed)
+* 1 teaspoon of red chilli flakes( add more if needed)
 * 2-3 Dried red chillies(optional)
 * 1/2 teaspoon Salt to taste
 * 2 cups of Chickpeas(soaked overnight).
