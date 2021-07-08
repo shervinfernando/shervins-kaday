@@ -1,5 +1,5 @@
 ---
-sort: 4
+sort: 5
 ---
 
 # Black Pork Curry
@@ -35,7 +35,7 @@ sort: 4
 * Marinate for few hours or overnight by adding items listed under Marinate to diced pork.
 * Fry the marinated pork for 5 min using the ingredients listed under Frying.
 * Place ½ cup of water, goraka and Pork into a pressure cooker and cook it for 5 min under pressure.
-** (Note: if dont have a pressure cooker, skip this step and add another 40 min to the next step).
+* __Note:__ if dont have a pressure cooker, skip this step and add another 40 min to the next step.
 * Place pork back into a heavy bottom sauce-pan and cook for another 20 min with heat down to a simmer.
 * Add lime – that’s it.
 
