@@ -1,7 +1,5 @@
-<img src="{{site.baseurl}}/images/srilanka_food_head.jpeg"/>
-
 # Welcome to Shervin's Lankan Kaday 
-
+<img src="{{site.baseurl}}/images/srilanka_food_head.jpeg"/>
 ### Listed below are some websites I have used to try recipies in this site
 
 * [Island Smile](https://www.islandsmile.org/)
