@@ -14,18 +14,18 @@ sort: 8
 ### For Marinade
 * 10 garlic cloves, finely chopped
 * 10 cm of piece of ginger, peeled and finely chopped
-* 2 tablespoons of Dark Roasted Curry powder
-* 1 tablespoon of Chilli powder
-* 1 tablespoon of crushed Pepper powder
-* 1 teaspoon of ground turmeric
-* 3 tablespoons of Balsamic vinegar
+* 2 tbsp of Dark Roasted Curry powder
+* 1 tbsp of Chilli powder
+* 1 tbsp of crushed Pepper powder
+* 1 tsp of ground turmeric
+* 3 tbsp of Balsamic vinegar
 * 1.5 teaspoon of salt
 
 ### For Frying
 * 4 tbsp of oil
-* ½ teaspoon of cumin seeds (optional)
-* ½ teaspoon of fenugreek seeds
-* 1 teaspoon mustard seeds
+* ½ tsp of cumin seeds (optional)
+* ½ tsp of fenugreek seeds
+* 1 tsp mustard seeds
 * 2 2.5 cm (1 inch) cinnamon sticks
 * 6 cardamom pods
 * 6 cloves

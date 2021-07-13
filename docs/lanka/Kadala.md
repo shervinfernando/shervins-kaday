@@ -6,14 +6,14 @@ sort: 7
 
 ## Ingredients
 
-* 3 Tablespoon of Oil
+* 3 tbsp of Oil
 * Handful of curry Leaves
 * 1 large Onion Sliced fine
-* 1 teaspoon of Mustard seeds
-* 1 teaspoon cumin seeds
-* 1 teaspoon of red chilli flakes( add more if needed)
+* 1 tsp of Mustard seeds
+* 1 tsp cumin seeds
+* 1 tsp of red chilli flakes( add more if needed)
 * 2-3 Dried red chillies(optional)
-* 1/2 teaspoon Salt to taste
+* 1/2 tsp Salt to taste
 * 2 cups of Chickpeas(soaked overnight).
 * 1/2 cup sliced coconut (optional)
 

@@ -13,8 +13,8 @@ sort: 1
 * water just enough to cover the beef.
 * 1/4 cup of tamarind juice or if you are using tamarind pulp then 1 and 1/2 tsp
 * 1/4 cup of oil to fry the beef
-* 1 tablespoon of crushed Garlic and Ginger.
-* 3 tablespoon Balsamic vinegar 
+* 1 tbsp of crushed Garlic and Ginger.
+* 3 tbsp Balsamic vinegar 
 * 1/2 tsp chilli flecks
 
 ## Method

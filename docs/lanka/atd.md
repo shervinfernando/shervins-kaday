@@ -10,14 +10,14 @@ sort: 3
 * 1 large onions sliced fine
 * 4 or 5 curry leaves
 * 24 cardamom pods slightly bruised
-* 1/2 teaspoon turmeric powder
-* 1 teaspoon cumin powder
-* 1 teaspoon red chilli flecks 
-* 1 teaspoon red chilli powder
+* 1/2 tsp turmeric powder
+* 1 tsp cumin powder
+* 1 tsp red chilli flecks 
+* 1 tsp red chilli powder
 * 1 large green chilli slit lengthwise.
-* 1 teaspoon mustard seeds
-* 2 tablespoons Maldive fish
-* 6 tablespoons of oil
+* 1 tsp mustard seeds
+* 2 tbsp Maldive fish
+* 6 tbsp of oil
 
 ## Method
 
