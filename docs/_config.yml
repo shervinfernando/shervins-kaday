@@ -1,6 +1,6 @@
 title: Shervin's Kaday
 lang: en
-description: Extends the continuous integration documentation capabilities of GitHub pages for everyone!
+description: Loves making Sri Lankan cuisines and my way of sharing this love!
 
 remote_theme: rundocs/jekyll-rtd-theme
 
@@ -12,3 +12,4 @@ exclude:
   - CNAME
   - Gemfile
   - Gemfile.lock
+  - .DS_Store

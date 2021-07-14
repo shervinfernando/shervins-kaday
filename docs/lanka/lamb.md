@@ -45,3 +45,4 @@ sort: 8
 * Add the coconut milk (optional), mix well and simmer for another 10–15 minutes until the sauce is thick.
 * Remove from the heat and squeeze in the lime juice.
 
+<img src="{{site.baseurl}}/images/lamb.jpeg"/>
