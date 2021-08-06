@@ -2,7 +2,7 @@
 sort: 11
 ---
 
-# Devil Dry-fish
+# Devilled Dry-fish
 
 ## Ingredients
 
