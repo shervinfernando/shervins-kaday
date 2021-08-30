@@ -9,7 +9,7 @@ sort: 3
 * 500g potatoes boiled, peeled and cut into cubes(1-inch roughly)
 * 1 large onions sliced fine
 * 4 or 5 curry leaves
-* 24 cardamom pods slightly bruised
+* 4 cardamom pods slightly bruised
 * 1/2 tsp turmeric powder
 * 1 tsp cumin powder
 * 1 tsp red chilli flecks 
