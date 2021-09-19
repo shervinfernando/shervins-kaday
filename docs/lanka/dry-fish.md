@@ -25,6 +25,7 @@ sort: 11
 
 * Cut and clean dry fish by soaking it in warm water for 5 minutes and then set it aside to dry.
 * Heat the oil in a large wok and deep fried the dry fish over moderate heat.
+* Add crushed fenugreek and mustard seeds for a minute or two.
 * Heat the oil in a pan and fry the onions, garlic, curry leaves and green chili.
 * Once the onions starts to brown and soften add the tomatoes, capsicums along with red chilli flakes,  chilli powder, turmeric powder.
 * Finally add the fried dry fish and stir.
