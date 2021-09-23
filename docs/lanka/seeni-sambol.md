@@ -29,4 +29,5 @@ sort: 12
 * Cook for a 2 minutes, turn the heat off and keep the lid on for another 5 min. 
 * Mix rest of the sugar and cook again for another 2 min.
 * turn the heat off and keep the lid on for another 5 min.  
+
 <img src="{{site.baseurl}}/images/seeni-sambol.jpeg"/>
