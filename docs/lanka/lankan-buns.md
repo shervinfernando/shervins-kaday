@@ -31,7 +31,7 @@ sort: 14
 * Meanwhile, preheat the oven to 190° C ( if fan forced 170° C )
 * After 40 minutes, gently brush Egg wash on top of the buns.
 * Bake the buns till golden brown for 15 min.
-* Once you remove the buns off the oven, apply little butter on top to make the buns crush soft. (optional)
+* Once you remove the buns off the oven, apply little butter on top to make the buns crust soft. (optional)
 
 <img src="{{site.baseurl}}/images/bun1.jpeg"/>
 <img src="{{site.baseurl}}/images/bun2.jpeg"/>
