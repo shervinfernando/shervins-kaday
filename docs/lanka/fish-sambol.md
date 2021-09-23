@@ -20,6 +20,7 @@ sort: 13
 * 1 tsp Chili powder optional
 * 1 350g - can Chunk Light Tuna drained
 * 2-3 medium-size Potatoes boiled, peeled, cut large.
+* 1 Juice from a large Lime
 
 
 ## Method
@@ -29,6 +30,6 @@ sort: 13
 * Then combine the green leaks, tomatoes, salt, green chilli, chilli flakes, turmeric powder, black pepper, and If you want a little more spice you may add the chilli powder as well. 
 * Give it a good mix and let it cook for about 3-5 minutes, stir often to avoid burning.
 * While it's cooking add the fish and the potatoes. 
-* Once everything is combined well. Take off the stove.  
+* Once everything is combined well. Take off the stove and add lime juice. 
 
 <img src="{{site.baseurl}}/images/fish-sambol.jpeg"/>
