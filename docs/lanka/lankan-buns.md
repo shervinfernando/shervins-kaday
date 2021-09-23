@@ -16,7 +16,7 @@ sort: 14
 * Egg Wash – one large egg yolk and 1/2 teaspoon water/ milk.
 
 ## Method
-
+* __Remember:__ to make something to fill - check *Sambol Recipes* in this site.
 * Combine flour, yeast, sugar, salt, and butter in a large bowl.
 * Make a well in the center.
 * Add warm water and milk to the flour mixture and knead it to form a very soft dough.
