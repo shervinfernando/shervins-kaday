@@ -14,7 +14,6 @@ sort: 12
 * 2 inch cinnamon
 * 10 cloves
 * 10 cardamoms
-
 * 10 tbsp vegetable oil
 * 1 tbsp tamarind paste
 * 4 tbsp sugar
