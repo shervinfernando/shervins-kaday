@@ -29,7 +29,7 @@ sort: 14
 * Bring the upper right corner of the circle to the center. Next, bring the upper left corner of the circle and overlap it, and slightly pinch the edges.  Lastly, overlap the bottom part of the circle, slightly pinch to make a triangular-shaped bun.
 * Place the triangular buns on a parchment paper-lined sheet pan. Cover and let it rise until double in size, about 40 minutes. (depends on how warm the room is)
 * Meanwhile, preheat the oven to 190° C ( if fan forced 170° C )
-After 40 minutes, gently brush milk or cream on top of the buns.
+* After 40 minutes, gently brush Egg wash on top of the buns.
 * Bake the buns till golden brown for 15 min.
 * Once you remove the buns off the oven, apply little butter on top to make the buns crush soft. (optional)
 
