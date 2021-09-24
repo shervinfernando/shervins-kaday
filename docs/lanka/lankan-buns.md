@@ -13,15 +13,17 @@ sort: 14
 * 30 g/ 2 Tablespoons unsalted butter( room temperature)
 * 1 teaspoon salt
 * 1 teaspoon sugar
+* 1 one large egg
 * Egg Wash – one large egg yolk and 1/2 teaspoon water/ milk.
+* Few drops of oil
 
 ## Method
 * __Remember:__ Before proceeding further, make a sambol to fill the buns - check *Sambol Recipes* in this site.
-* Combine flour, yeast, sugar, salt, and butter in a large bowl.
-* Make a well in the center.
-* Add warm water and milk to the flour mixture and knead it to form a very soft dough.
+* Activate the yeast by adding the yeast, sugar, warm water and milk in a small bowl and mix well and leave aside for 10 minutes until it froths
+* Combine softened butter, egg and mix with a spoon. Lastly, add salt and flour.
+* Make a well in the center and add activated yeast to the flour mixture and knead it to form a very soft dough.
 * Next, turn the dough onto a floured surface and knead the dough for 10 minutes or until the dough springs back.
-* Put the dough into an oiled bowl and cover the bowl with cling wrap and leave it somewhere warm for 1 hour or till the dough is doubled in size.
+* Put the dough into an oiled bowl, Apply a few drops of oil on the surface of the dough, cover with plastic wrap and leave it somewhere warm for 1 hour or till the dough is doubled in size.
 * After an hour, punch the dough down, leave it to rest for 10 minutes and shape the dough
 * Divide the dough into half. Next, roll each half into a log and divide each log into 10 equal size pieces for mini buns.
 * Roll each ball of dough into about 3-inch circles. 
