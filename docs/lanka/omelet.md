@@ -33,7 +33,7 @@ sort: 15
 * Pour the egg mixture to the pan(give the eggs a stir before following this instruction), make sure the egg mixture spreads evenly over the cooked ingredients that are already in the pan.
 * Immediately cover the frying pan with a lid, maintain low fire and continue cooking the omelet. Avoid shaking the pan or using a spoon while the omelet cooks.
 * If you find the bottom of the omelet too dry while it cooks, drizzle a bit of oil around the edges of the eggs, this makes it crisper as well.
-* Once the top layer of the omelet is cooked, add your favorite herb, I’m adding chopped coriander here..  
+* Once the top layer of the omelet is cooked, add your favorite herb, I’m adding chopped coriander here.
 
 <img src="{{site.baseurl}}/images/Omelet1.jpeg"/>
 
