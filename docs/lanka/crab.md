@@ -2,11 +2,11 @@
 sort: 17
 ---
 
-# Sri Lankan Crab Curry
+# Sri Lankan Mud Crab Curry
 
 ## Ingredients
 
-* 5 cleaned crabs
+* 5 cleaned mud crabs
 * 1 cup freshly grated coconut
 * 4 tsp cumin (ground)
 * 1 tsp fenugreek seeds
