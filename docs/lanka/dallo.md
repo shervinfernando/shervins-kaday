@@ -35,6 +35,6 @@ sort: 19
 * Pour in the coconut milk, salt, black pepper and sugar.
 * Slow-simmer the gravy for 10-15 minutes until gravy is slightly thick.
 * Add the cuttlefish to the gravy.
-* Reduce heat and slow simmer for another 10 minutes or until the gravy thickens.
+* Slow-simmer for another 10 minutes or until the gravy thickens.
 
 <img src="{{site.baseurl}}/images/dallo-curry.jpeg"/>
