@@ -13,7 +13,7 @@ sort: 17
 * 5 tsp black pepper (ground)
 * 4 tbsp tamarind pulp
 * 4 large tomatoes cubed
-* 1 cup coconut milk 
+* 2 cup coconut milk 
 * 4 tbsp coconut oil
 * 2 tsp black mustard seeds
 * 10 small red onions sliced
