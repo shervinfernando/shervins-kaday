@@ -27,9 +27,9 @@ sort: 19
 
 ## Method
 
-* Place a wok or cooking pan over low-medium heat and pour the oil(4 tbsp).
-* Once the oil heats, add the curry leaves, and ginger-garlic paste. the chopped onions, green chillies, and cinnamon and cook for 2-3 minutes.
-* Add the banana peppers(optional).
+* Heat the oil in a large pot over high heat.
+* Once the oil heats, add curry leaves, ginger-garlic paste, onions, green chillies, and cinnamon and cook for 2-3 minutes.
+* Add the banana peppers (optional).
 * Cook until peppers and onions turn slightly soft. Around 3 minutes over low-medium fire.
 * Add turmeric, chilli powder, curry powder, and pepper.
 * Pour in the coconut milk, salt, black pepper and sugar.
