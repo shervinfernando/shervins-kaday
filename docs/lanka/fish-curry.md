@@ -18,7 +18,7 @@ sort: 4
 * 1 tsp each fenugreek seeds and brown mustard seeds, coarsely crushed
 * 1 tablespoons of chilli powder(1/2 teaspoon more if you can handle it)
 * 1 tsp ground pepper 
-* 1/2 teaspoon turmeric powder
+* 1/2 tsp turmeric powder
 * 500g of fresh Snapper but any firm fish with or without skin would do.
 * 1 and 1/2 cup of water
 * 1 large tomato 
