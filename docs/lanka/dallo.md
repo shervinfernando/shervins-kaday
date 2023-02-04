@@ -2,7 +2,7 @@
 sort: 19
 ---
 
-# Sri Lankan Dallo Curry (Calamari)
+# Dallo Curry (Calamari)
 
 ## Ingredients
 
