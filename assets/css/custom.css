@@ -1,0 +1,222 @@
+/* Shervin's Kaday - Sri Lankan Recipe Site Theme */
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Source+Sans+3:wght@400;500;600&display=swap');
+
+:root {
+  /* Warm spice palette */
+  --primary: #c45c26;
+  --primary-dark: #9b4520;
+  --accent: #2d5a27;
+  --accent-light: #4a7c3e;
+  --bg-warm: #faf7f2;
+  --bg-card: #fffdf9;
+  --text: #2c2416;
+  --text-muted: #5c5242;
+  --border: #e8e0d5;
+  --sidebar-bg: #f5efe6;
+}
+
+/* Base typography */
+body {
+  font-family: 'Source Sans 3', -apple-system, BlinkMacSystemFont, sans-serif;
+  color: var(--text);
+  background: var(--bg-warm);
+  line-height: 1.6;
+}
+
+/* Main content area */
+.app-sub-sidebar,
+.markdown-section {
+  font-size: 16px;
+}
+
+.markdown-section {
+  max-width: 720px;
+  padding: 2rem 2.5rem 4rem;
+  background: var(--bg-card);
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+}
+
+.markdown-section h1,
+.markdown-section h2,
+.markdown-section h3 {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  color: var(--primary-dark);
+  font-weight: 600;
+  border-bottom-color: var(--border);
+}
+
+.markdown-section h1 {
+  font-size: 2.2rem;
+  margin-top: 0;
+  padding-bottom: 0.5rem;
+}
+
+.markdown-section h2 {
+  font-size: 1.5rem;
+  margin-top: 2rem;
+}
+
+.markdown-section h3 {
+  font-size: 1.2rem;
+}
+
+.markdown-section a {
+  color: var(--primary);
+}
+
+.markdown-section a:hover {
+  color: var(--primary-dark);
+}
+
+/* Sidebar */
+.sidebar {
+  background: var(--sidebar-bg) !important;
+  border-right: 1px solid var(--border);
+}
+
+.sidebar-nav {
+  padding: 1rem 0;
+}
+
+.sidebar-nav li {
+  margin: 0.2rem 0;
+}
+
+.sidebar-nav li a {
+  color: var(--text) !important;
+  font-weight: 500;
+  padding: 0.4rem 1rem;
+  border-radius: 6px;
+  transition: all 0.2s ease;
+}
+
+.sidebar-nav li a:hover {
+  background: rgba(196, 92, 38, 0.1);
+  color: var(--primary) !important;
+}
+
+.sidebar-nav li.active > a {
+  background: rgba(196, 92, 38, 0.15);
+  color: var(--primary) !important;
+  font-weight: 600;
+}
+
+.sidebar-nav li ul li a {
+  font-size: 0.9rem;
+  padding-left: 1.5rem;
+}
+
+/* App name / header */
+.app-name-link {
+  font-family: 'Cormorant Garamond', Georgia, serif !important;
+  font-size: 1.5rem !important;
+  font-weight: 700 !important;
+  color: var(--primary-dark) !important;
+}
+
+.app-name-link img {
+  display: none;
+}
+
+/* Search */
+.search input {
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: white;
+}
+
+.search input:focus {
+  border-color: var(--primary);
+  box-shadow: 0 0 0 2px rgba(196, 92, 38, 0.2);
+}
+
+/* Lists in recipes */
+.markdown-section ul {
+  padding-left: 1.5rem;
+}
+
+.markdown-section li {
+  margin: 0.4rem 0;
+  line-height: 1.6;
+}
+
+/* Images */
+.markdown-section img {
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  margin: 1rem 0;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Homepage hero */
+.markdown-section > h1:first-child {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.markdown-section > p:first-of-type img {
+  max-height: 280px;
+  object-fit: cover;
+  width: 100%;
+}
+
+/* Recipe links on homepage */
+.markdown-section ul li a {
+  font-weight: 500;
+}
+
+/* Cover page */
+section.cover {
+  background: linear-gradient(135deg, var(--sidebar-bg) 0%, var(--bg-warm) 50%, rgba(196, 92, 38, 0.08) 100%);
+}
+
+section.cover .cover-main {
+  padding: 2rem;
+}
+
+section.cover h1 {
+  font-family: 'Cormorant Garamond', Georgia, serif !important;
+  font-size: 3rem !important;
+  font-weight: 700 !important;
+  color: var(--primary-dark) !important;
+  margin-bottom: 0.5rem !important;
+}
+
+section.cover p {
+  font-family: 'Source Sans 3', sans-serif !important;
+  font-size: 1.25rem !important;
+  color: var(--text-muted) !important;
+}
+
+section.cover .cover-main > p:last-child a {
+  background: var(--primary) !important;
+  color: white !important;
+  border: none !important;
+  padding: 0.6rem 1.5rem !important;
+  border-radius: 6px !important;
+  font-weight: 600 !important;
+  transition: background 0.2s ease;
+}
+
+section.cover .cover-main > p:last-child a:hover {
+  background: var(--primary-dark) !important;
+}
+
+section.cover .cover-main > p:last-child a:last-child {
+  background: transparent !important;
+  color: var(--primary) !important;
+  border: 2px solid var(--primary) !important;
+}
+
+section.cover .cover-main > p:last-child a:last-child:hover {
+  background: rgba(196, 92, 38, 0.1) !important;
+}
+
+/* Footer */
+.footer {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+}
