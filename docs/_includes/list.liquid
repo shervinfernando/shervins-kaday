@@ -1,6 +1,0 @@
-{% assign items = site.pages | where_exp: "item", "item.dir == page.dir and item.name != 'README.md'" | sort: "sort" %}
-<ul>
-{% for item in items %}
-  <li><a href="{{ item.url | relative_url }}">{{ item.title | default: item.name }}</a></li>
-{% endfor %}
-</ul>
