@@ -70,10 +70,33 @@ body {
   color: var(--primary-dark);
 }
 
-/* Sidebar */
+/* Sidebar - ensure visibility */
 .sidebar {
   background: var(--sidebar-bg) !important;
   border-right: 1px solid var(--border);
+  width: 300px !important;
+}
+
+/* Sidebar toggle - make visible on mobile */
+.sidebar-toggle {
+  background-color: var(--sidebar-bg) !important;
+  border-right: 1px solid var(--border);
+  padding: 20px !important;
+  cursor: pointer;
+}
+
+.sidebar-toggle span {
+  background-color: var(--primary) !important;
+}
+
+@media screen and (max-width: 768px) {
+  .sidebar-toggle {
+    display: block !important;
+    z-index: 100;
+    top: 10px;
+    left: 10px;
+    bottom: auto;
+  }
 }
 
 .sidebar-nav {
