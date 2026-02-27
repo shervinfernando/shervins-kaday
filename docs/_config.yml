@@ -2,6 +2,10 @@ title: Shervin's Kaday
 lang: en
 description: Loves making Sri Lankan cuisines and my way of sharing this love!
 
+# For GitHub Pages project site (shervinfernando.github.io/shervins-kaday)
+baseurl: "/shervins-kaday"
+url: "https://shervinfernando.github.io"
+
 remote_theme: rundocs/jekyll-rtd-theme
 
 readme_index:
@@ -13,3 +17,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - .DS_Store
+  - images/README.md
